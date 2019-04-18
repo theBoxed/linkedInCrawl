@@ -1,0 +1,308 @@
+{
+  "profile": {
+    "name": "Brady Fox ",
+    "headline": "Digital Strategist | B2B Marketer | Long-Term Mindset + Some Talent Wins Everyday",
+    "location": "Washington, District Of Columbia",
+    "summary": "A driven digital marketing leader with a growing record of delivering measurable impact for clients across multiple industries. Experienced in strategy, planning, execution and measurement of campaigns including Product Launch, Go to Market, Lead Generation and Brand Awareness.\n\n\nAreas of skills and experience include:\n\nMarketing Strategy, Planning, Execution\nOmni-Channel Digital Campaigns & Demand Generation\n\nPaid Media:\n- Search: Google Ads & Bing\n- Programmatic/Display\n- Paid Social: LinkedIn, Facebook, Twitter, Quora\n\nOrganic:\n- SEO (onsite & offsite)\n- Social Media\n- Content Strategy & Development\n\nMarketing Operations:\n- Email Marketing & Marketing Automation\n- Reporting\n- Data Analysis and Analytics\n- Attribution and ROI\n- Marketing & Sales Alignment\n\nDiscovery:\n- Persona Development\n- Ideal Customer Profile\n- Competitor Analysis\n- GAP and Content Analysis\n\nMarketing Tools:\n- Marketing Automation: Hubspot, Marketo, and Pardot, MailChimp\n- SEO: Search Console, Moz, SEMRush, SpyFu\n- Analytics & Reporting: Excel, Google Analytics, NinjaCat, Tableau, SQL, MonogoDB\n\nWeb Development:\n- Front-End: JavaScript, React, Redux, Enzyme, jQuery, HTML5, CSS3\n- Back-end: Node.JS, MongoDB, SQL, Mocha & Chai, Passport, Rest APIs 3\n- Dev Tools: Git, GitHub, Chrome Dev Tools, Heroku, Travis CI",
+    "connections": "500+"
+  },
+  "positions": [
+    {
+      "title": "Bluetext",
+      "description": "Everyday I have the opportunity to work with an incredible team to build out and execute on strategic marketing campaigns for a number of industry leading clients.\n",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Director of Marketing Programs",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 4 mos"
+        },
+        {
+          "title": "Project Manager",
+          "date1": "Mar 2015 – Jan 2017",
+          "date2": "1 yr 11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "companyName": "New North",
+      "description": "New North is the only digital advertising agency focused on customer retention. We help clients increase retention rates through engaging digital marketing Websites and campaigns, that easily and effectively integrate into your current marketing plans. Using industry leading technology to monitor, report and customize efforts for your customer base to incr... ",
+      "date1": "Jul 2014 – Mar 2015",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Inbound Marketing",
+      "companyName": "RateMyTeachers",
+      "date1": "May 2014 – Dec 2014",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Wore Multiple Hats",
+      "companyName": "Better World Collective",
+      "description": "Led the team in customer success. I managed everything client related including retention, referrals, and overall customer satisfaction.",
+      "date1": "Aug 2013 – May 2014",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Co-Owner and Co-Founder",
+      "companyName": "Ratemyband LLC",
+      "description": "Led the start up of the LLC, Ratemyband, a website that\naims to help undiscovered bands get heard.\n-Successfully launched and marketed the website which is in the\nbeginning stages of the launching process. I have been working on... ",
+      "date1": "Jan 2010 – Jan 2013",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Merkle",
+      "description": "Over the past two summers, I have worked with the Non-Profit Strategy team to help with the the strategic marketing approach for clients such as ACS, USOC, Komen, and various other Non-Profit Leaders.",
+      "date1": "May 2011 – Aug 2012",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "StoneBridge Advisors, Inc",
+      "description": "Led an organizational project that consisted of cleaning up their\nonline filing system and their database. This resulted in a more\nproductive environment.",
+      "date1": "May 2009 – Jul 2010",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Virginia",
+      "degree": "Bachelors of Arts",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Thinkful",
+      "degree": "Engineering Imersion",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {
+      "title": "Georgetown Preparatory School",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "Thinkful",
+      "degree": "Engineering Immersion",
+      "date1": "2018",
+      "date2": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Online Marketing",
+      "count": "15"
+    },
+    {
+      "title": "Leadership",
+      "count": "15"
+    },
+    {
+      "title": "Social Media",
+      "count": "13"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "9"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "7"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "6"
+    },
+    {
+      "title": "Marketing",
+      "count": "6"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "5"
+    },
+    {
+      "title": "Business Development",
+      "count": "4"
+    },
+    {
+      "title": "Strategy",
+      "count": "3"
+    },
+    {
+      "title": "Sales Management",
+      "count": "2"
+    },
+    {
+      "title": "Search Engine Optimization (SEO)",
+      "count": "1"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "1"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "1"
+    },
+    {
+      "title": "Online Advertising",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "9"
+    },
+    {
+      "title": "Node.js",
+      "count": "7"
+    },
+    {
+      "title": "MongoDB",
+      "count": "6"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "4"
+    },
+    {
+      "title": "Google Adwords",
+      "count": "1"
+    },
+    {
+      "title": "Creative Problem Solving",
+      "count": "9"
+    },
+    {
+      "title": "Fundraising",
+      "count": "6"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "5"
+    },
+    {
+      "title": "Teamwork",
+      "count": "4"
+    },
+    {
+      "title": "Team Management",
+      "count": "2"
+    },
+    {
+      "title": "Organizational Development",
+      "count": "2"
+    },
+    {
+      "title": "Design Documents",
+      "count": "2"
+    },
+    {
+      "title": "Outbound Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Inbound Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "count": "1"
+    },
+    {
+      "title": "Positivity",
+      "count": "9"
+    },
+    {
+      "title": "Imagination",
+      "count": "3"
+    },
+    {
+      "title": "Team-oriented",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sean-nealon-033423124/",
+        "text": "Brady is an absolute pleasure to work with. He is motivated, a bit of a perfectionist (in a good way) and is an amazing collaborator. Not only is Brady an excellent programmer, he is also thoughtful, a great leader, and a team player."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/sean-nealon-033423124/",
+        "text": "\n        Sean is awesome to work with and takes pride in his work. He consistently demonstrates a solid work ethic and has always committed himself to the success of the project. Sean is dedicated, extremely passionate, strategic and extremely capable. He is not only a great up and coming developer, but also an inspiring team player. \n\n... See more\n\n  "
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "RateMyBoss.com"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ricksilipigni/",
+      "text": "Managing Partner | Chief Growth Officer at Bluetext"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dave-dykes-4637aba6/",
+      "text": "Senior Account Executive at Bluetext"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jajin-ra-862133150/",
+      "text": "Master Plumber at John R Plumbing LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ethan-mayo-707115ba/",
+      "text": "Financial Analyst at Edelman"
+    },
+    {
+      "user": "https://www.linkedin.com/in/volha-butar-b4709033/",
+      "text": "Assistant Director of Finance - Operations at City of Salisbury"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-beihl-0b5195149/",
+      "text": "A&P avionics technition at Boeing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathan-hunt-337210141/",
+      "text": "Electronics Repair at US Army"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tristan-pekron-b75325141/",
+      "text": "Cavalry Scout at US Army"
+    },
+    {
+      "user": "https://www.linkedin.com/in/blake-swing-67640350/",
+      "text": "ARMY EOD Tech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/troy-clarkson-31828114a/",
+      "text": "19D Sergeant, 1-33 CAV, 101st Airborne (AASLT)"
+    }
+  ],
+  "volunteerExperience": []
+}

@@ -1,0 +1,12 @@
+{
+  "email": "stevelehmen@gmail.com",
+  "password": "@aron.R0",
+  "relatedProfilesKeywords": [],
+  "maxConcurrentCrawlers": 5,
+  "saveDirectory": "./crawledProfiles",
+  "hasToLog": true,
+  "proxyAddress": null,
+  "rootProfiles": [
+    "https://www.linkedin.com/in/ray-holloman-3b6b711/"
+  ]
+}
