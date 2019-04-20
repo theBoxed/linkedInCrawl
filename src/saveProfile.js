@@ -1,16 +1,44 @@
 //Populate a google sheet
+'use strict';
+const async = require('async');
 
-const dependencies = {
-  fs: require('fs'),
-  config: require('../config.json')
-}
+module.exports = (profileId, content, leadList, injection) => {
+  console.log('POSITIONS => ', content.positions[0].title);
 
-module.exports = (profileId, content, injection) => {
-  const { fs, config } = Object.assign({}, dependencies, injection)
+  const {name, headline, location, summary, connections} = content.profile;
+  const title = content.positions[0].title; 
+  const company = content.positions[0].companyName;
+  const {positions, education, skills, accomplishments, peopleAlsoViewed} = content;
+  const recommendationsGiven = content.recommendations.given;
+  const recommendationsReceived = content.recommendations.received;
 
-  if (!fs.existsSync(config.saveDirectory)) {
-    fs.mkdirSync(config.saveDirectory)
-  }
+  const userProfile = {
+    date: Date.now(),
+    name,
+    headline,
+    location,
+    summary,
+    connections,
+    title, 
+    company,
+    positions,
+    education,
+    skills,
+    accomplishments,
+    related: peopleAlsoViewed,
+    recommendationsgiven: recommendationsGiven,
+    recommendationsreceived: recommendationsReceived
+  };
 
-  return fs.writeFileSync(`${config.saveDirectory}/${profileId}.json`, JSON.stringify(content, undefined, 2))
-}
+  async.series([
+    function addProfiles(step){
+      leadList.addRow(userProfile, (err, rows)=>{
+        console.log(rows);
+        step();
+      });
+    }], function (err) {
+    if (err) {
+      console.log('Error: ' + err);
+    }
+  });
+};

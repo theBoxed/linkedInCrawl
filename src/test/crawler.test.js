@@ -1,4 +1,4 @@
-const crawler = require('./crawler')
+const crawler = require('../crawler')
 const { stub, assert } = require('sinon')
 const faker = require('faker')
 

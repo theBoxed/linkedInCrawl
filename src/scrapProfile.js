@@ -1,3 +1,5 @@
+'use strict';
+
 const dependencies = {
   extractRelatedProfiles: require('./extractRelatedProfiles'),
   saveProfile: require('./saveProfile'),
@@ -5,7 +7,7 @@ const dependencies = {
   getProfileIdFromUrl: require('./getIdFromProfileUrl')
 }
 
-module.exports = async (profileScraper, profileUrl, injection) => {
+module.exports = async (profileScraper, profileUrl, leadList, injection) => {
   const {
     extractRelatedProfiles,
     saveProfile,
@@ -17,7 +19,7 @@ module.exports = async (profileScraper, profileUrl, injection) => {
     const profileId = getProfileIdFromUrl(profileUrl)
     const profile = await profileScraper('https://www.linkedin.com/in/' + profileId, 5000)
 
-    await saveProfile(profileId + '.json', profile)
+    await saveProfile(profileId, profile, leadList);
 
     const related = await extractRelatedProfiles(profile, profileId)
     return related

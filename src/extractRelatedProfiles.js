@@ -1,19 +1,21 @@
+'use strict';
+
 const dependencies = {
   config: require('../config.json')
-}
+};
 module.exports = (profile, injection) => {
-  const { relatedProfilesKeywords } = injection.config || dependencies.config
+  const { relatedProfilesKeywords } = injection.config || dependencies.config;
 
   return profile.peopleAlsoViewed.filter(({ text }) => {
-    if (text) {
-      const t = text.toLowerCase()
+    if (!text) {
+      const t = text.toLowerCase();
 
       const hasFound = relatedProfilesKeywords.find(
-        (keyword) => t.includes(keyword))
+        (keyword) => t.includes(keyword));
 
-      if (hasFound) { return true }
+      if (hasFound) { return true; }
     }
 
-    return false
-  }).map(({ user }) => user)
-}
+    return false;
+  }).map(({ user }) => user);
+};
